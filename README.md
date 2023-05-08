@@ -10,7 +10,7 @@
 
 ```javascript
 const martin = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Haskell],
+  code: [Typescript, HTML, CSS, Java, Haskell],
   tools: [Angular, Node, MongoDB, MySQL, Docker],
   passions: ["web development", "gym", "read books", "watch movies"]
 ```
